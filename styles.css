@@ -1,0 +1,22 @@
+.flex-container {
+    display:flex;
+}
+body {
+    background-color: #CAD2C5;
+
+}
+nav {
+    background-color:#52796F;
+    
+}
+
+h2 {
+background-color: #52796F;
+color:#CAD2C5;
+
+
+}
+.skillsdiv {
+    border-color: #354F52;
+}
+
